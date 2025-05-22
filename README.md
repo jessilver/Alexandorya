@@ -98,7 +98,3 @@ Desenvolvedor web apaixonado por organização, aprendizado contínuo e Django.
 
 Este repositório está sob a licença **MIT**.
 Sinta-se livre para estudar, adaptar e compartilhar.
-
----
-
-Se quiser, posso montar um ícone ou selo visual para o projeto usando o nome "Alexandorya" e a escrita japonesa. Deseja isso também, Jessé?
